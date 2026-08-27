@@ -158,12 +158,12 @@
    - [CVE vs CWE vs CVSS vs EPSS](#cve-vs-cwe-vs-cvss-vs-epss)
 8. [OWASP MCP Top 10 Mapping](#owasp-mcp-top-10-mapping)
 9. [Root cause (weakness family) taxonomy](#root-cause-weakness-family-taxonomy)
-   - [4.1 Injection & execution](#41-injection-execution)
-   - [4.2 File, path, and container boundaries](#42-file-path-and-container-boundaries)
-   - [4.3 Web-classic on MCP HTTP & browser-adjacent clients](#43-web-classic-on-mcp-http-browser-adjacent-clients)
-   - [4.4 Identity, OAuth, and authorization](#44-identity-oauth-and-authorization)
-   - [4.5 Availability, parsing, and protocol edge cases](#45-availability-parsing-and-protocol-edge-cases)
-   - [4.6 Data confidentiality & integrity](#46-data-confidentiality-integrity)
+   - [Injection & execution](#41-injection-execution)
+   - [File, path, and container boundaries](#42-file-path-and-container-boundaries)
+   - [Web-classic on MCP HTTP & browser-adjacent clients](#43-web-classic-on-mcp-http-browser-adjacent-clients)
+   - [Identity, OAuth, and authorization](#44-identity-oauth-and-authorization)
+   - [Availability, parsing, and protocol edge cases](#45-availability-parsing-and-protocol-edge-cases)
+   - [Data confidentiality & integrity](#46-data-confidentiality-integrity)
    - [Academic taxonomies & papers](#academic-taxonomies-papers)
    - [Community & standards](#community-standards)
    - [Tools & code](#tools-code)
@@ -2082,7 +2082,7 @@ The OWASP MCP Top 10 provides an MCP-native way to classify risks that emerge wh
 
 These families recur across **[mcp-cve-project](https://github.com/vermava/mcp-cve-project)** disclosures (command injection, path issues, SSRF, OAuth flaws, auth bypass, cross-tenant leaks, DoS, XSS, etc.). Map each CVE to **one primary** family for analytics; add secondary tags when useful.
 
-<h3 id="41-injection-execution">4.1 Injection &amp; execution</h3>
+<h3 id="41-injection-execution">Injection &amp; execution</h3>
 
 
 | Tag                       | Description                                                            | Representative patterns                        |
@@ -2097,7 +2097,7 @@ These families recur across **[mcp-cve-project](https://github.com/vermava/mcp-c
 
 
 
-<h3 id="42-file-path-and-container-boundaries">4.2 File, path, and container boundaries</h3>
+<h3 id="42-file-path-and-container-boundaries">File, path, and container boundaries</h3>
 
 
 | Tag             | Description                                                                    |
@@ -2110,7 +2110,7 @@ These families recur across **[mcp-cve-project](https://github.com/vermava/mcp-c
 
 
 
-<h3 id="43-web-classic-on-mcp-http-browser-adjacent-clients">4.3 Web-classic on MCP HTTP &amp; browser-adjacent clients</h3>
+<h3 id="43-web-classic-on-mcp-http-browser-adjacent-clients">Web-classic on MCP HTTP &amp; browser-adjacent clients</h3>
 
 
 | Tag            | Description                                                                                   |
@@ -2124,7 +2124,7 @@ These families recur across **[mcp-cve-project](https://github.com/vermava/mcp-c
 
 
 
-<h3 id="44-identity-oauth-and-authorization">4.4 Identity, OAuth, and authorization</h3>
+<h3 id="44-identity-oauth-and-authorization">Identity, OAuth, and authorization</h3>
 
 
 | Tag               | Description                                                                |
@@ -2139,7 +2139,7 @@ These families recur across **[mcp-cve-project](https://github.com/vermava/mcp-c
 
 
 
-<h3 id="45-availability-parsing-and-protocol-edge-cases">4.5 Availability, parsing, and protocol edge cases</h3>
+<h3 id="45-availability-parsing-and-protocol-edge-cases">Availability, parsing, and protocol edge cases</h3>
 
 
 | Tag             | Description                                                                                     |
@@ -2151,7 +2151,7 @@ These families recur across **[mcp-cve-project](https://github.com/vermava/mcp-c
 
 
 
-<h3 id="46-data-confidentiality-integrity">4.6 Data confidentiality &amp; integrity</h3>
+<h3 id="46-data-confidentiality-integrity">Data confidentiality &amp; integrity</h3>
 
 
 | Tag             | Description                                                                |
