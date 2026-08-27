@@ -8,6 +8,7 @@
 
 1. [1. MCP relationship map](#1-mcp-relationship-map)
    - [Mermaid version](#mermaid-version)
+   - [Taxonomy Overview](#taxonomy-overview)
 2. [Design principles](#design-principles)
    - [Beginner translation](#beginner-translation)
 3. [2. MCP Terms](#2-mcp-terms)
@@ -155,7 +156,6 @@
    - [Tool vs Resource vs Prompt](#tool-vs-resource-vs-prompt)
    - [Prompt Injection vs Tool Poisoning vs Context Poisoning](#prompt-injection-vs-tool-poisoning-vs-context-poisoning)
    - [CVE vs CWE vs CVSS vs EPSS](#cve-vs-cwe-vs-cvss-vs-epss)
-7. [Taxonomy Overview](#taxonomy-overview)
 8. [OWASP MCP Top 10 Mapping](#owasp-mcp-top-10-mapping)
 9. [Root cause (weakness family) taxonomy](#root-cause-weakness-family-taxonomy)
    - [4.1 Injection & execution](#41-injection-execution)
