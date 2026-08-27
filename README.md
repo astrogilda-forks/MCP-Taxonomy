@@ -6,7 +6,7 @@ Open, vendor-neutral classification of MCP security risks, weaknesses, attack pa
 
 Start with the complete reference:
 
-**[docs/MCP-SECURITY-TAXONOMY-COMPLETE.md](docs/MCP-SECURITY-TAXONOMY-COMPLETE.md)**
+**[docs/MCP-SECURITY-TAXONOMY-COMPLETE.md](MCP-SECURITY-TAXONOMY-COMPLETE.md)**
 
 It is a single, combined document covering glossary, design principles, taxonomy structure, framework mappings, CVE-aligned tags, and external crosswalks.
 
