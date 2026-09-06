@@ -10,7 +10,7 @@ Start with the complete reference:
 
 It is a single, combined document covering glossary, design principles, taxonomy structure, framework mappings, CVE-aligned tags, and external crosswalks.
 
-Maintained and curated by [Vandana Verma Sehgal](vermava)
+Maintained and curated by [Vandana Verma Sehgal](https://github.com/vermava)
 
 ## Complete reference (sections)
 
